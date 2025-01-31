@@ -16,9 +16,9 @@ const Home = () => {
     return (
         <div>
            <HeroBanner1
-                videotext="<strong>Watch</strong><br>Bentol Story"
-                title="Unleash Growing<br> <span class='bold'>Smart Branding</span> <br>Business"
-                btnname="Let’s Talk Bentol"
+                videotext="<strong>Watch</strong><br>Intolap Story"
+                title="Unleashing <br><span class='bold'>Innovations</span><br> Empowering <br><span class='bold'>Growth</span>"
+                btnname="Let’s Talk Intolap"
                 btnurl="/contact"
                 mainimg="/assets/images/banner/hero-img-1.jpg"
                 Clientnumber="5k"
@@ -28,7 +28,7 @@ const Home = () => {
                 review="(120K Reviews)"
            ></HeroBanner1>
            <About1
-                subtitle="ABOUT BENTOL"
+                subtitle="ABOUT INTOLAP"
                 title="Best powerfull business <br> <span class='bold'>consulting agency for</span> <br> brand success"
                 rotatetext="* IT BUSINESS  *  CONSULTANTIS  *  DEVELOPMENTS"
                 subtitle2="SINCE 2006"

@@ -40,7 +40,7 @@ export default function Header1({ variant }) {
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
               <Link to="/" className="cs_site_branding">
-                <img src="/assets/images/logo/logo.png" alt="Logo" />
+                <img src="/assets/images/logo/logo-main.png" alt="Logo" />
               </Link>
               </div>
               <div className="cs_main_header_center">
@@ -61,7 +61,7 @@ export default function Header1({ variant }) {
             <div className="cs_main_header_right">
               <div className="header-btn header-right-wrapper">
               <div className="header-right">
-                  <a href="tel:+181234567" className="header-btn"><span className="fa-solid fa-headphones"></span>+18 123 4567</a>
+                  <a href="tel:+181234567" className="header-btn"><span className="fa-solid fa-headphones"></span>+91 70636 98517</a>
                   <div className="sidebar-icon" onClick={() => setSideNav(!sideNav)}>
                       <button className="sidebar-trigger open" >
                           <span className="fa-solid fa-bars"></span>
@@ -85,7 +85,7 @@ export default function Header1({ variant }) {
             </button>
             <div className="sidebar-content">
                 <div className="sidebar-logo">
-                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo.png" alt="logo" /></a>
+                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo-main.png" alt="logo" /></a>
                 </div>
                 <div className="sidebar-menu-wrap"></div>
                 <div className="sidebar-about">
@@ -107,23 +107,23 @@ export default function Header1({ variant }) {
                     <ul className="contact-info">
                         <li>
                         <i className="bi bi-geo-alt-fill"></i>
-                            <p>Valentin resides at 24 Street Road in New York</p>
+                            <p>Plot-31, Garia Station Road, Kolkata, 700152</p>
                         </li>
                         <li>
                         <i className="bi bi-telephone-fill"></i>
-                            <a href="tel:+181234567">+18 123 4567</a>
+                            <a href="tel:+181234567">+91 70636 98517</a>
                         </li>
                         <li>
                         <i className="bi bi-envelope-fill"></i>
-                            <a href="mailto:example@gmail.com">example@gmail.com</a>
+                            <a href="mailto:info@intolap.com">info@intolap.com</a>
                         </li>
                     </ul>
                 </div>
                 <ul className="sidebar-social">
-                    <li className="facebook"><a href="#"><i className="bi bi-facebook"></i></a></li>
-                    <li className="instagram"><a href="#"><i className="bi bi-twitter"></i></a></li>
-                    <li className="twitter"><a href="#"><i className="bi bi-instagram"></i></a></li>
-                    <li className="g-plus"><a href="#"><i className="bi bi-linkedin"></i></a></li>
+                    <li className="facebook"><a target="_blank" href="https://www.facebook.com/intolap"><i className="bi bi-facebook"></i></a></li>
+                    <li className="instagram"><a target="_blank" href="http://x.com/intolap"><i className="bi bi-twitter"></i></a></li>
+                    {/* <li className="twitter"><a href="#"><i className="bi bi-instagram"></i></a></li> */}
+                    <li className="g-plus"><a target="_blank" href="https://www.linkedin.com/company/intolap"><i className="bi bi-linkedin"></i></a></li>
                 </ul>
             </div>
         </div>        
