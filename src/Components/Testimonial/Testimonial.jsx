@@ -60,7 +60,7 @@ const Testimonial = () => {
                         </div>
                         <div className="pb-30"><div className="border white"></div></div>
                         <div className="testi-clutch">
-                            <img src="/assets/images/testimonial/clutch.png" alt="" />
+                            {/* <img src="/assets/images/testimonial/clutch.png" alt="" /> */}
                         </div>
                     </div>
                 </div>
@@ -84,7 +84,7 @@ const Testimonial = () => {
                                                 <i className="bi bi-star-fill"></i>
                                                 <i className="bi bi-star-fill"></i>
                                                 <i className="bi bi-star-fill"></i>
-                                                <i className="bi bi-star-half"></i>
+                                                <i className="bi bi-star-fill"></i>
                                                 </div>
                                             </div>
                                         </div>
@@ -108,14 +108,14 @@ const Testimonial = () => {
                         </div>
                     </div>
                     <div className="stats-container mt-50 md-pb-80">
-                        {/* <div className="stat-box bg-theme br_tl-10 white">
+                        <div className="stat-box bg-theme br_tl-10 white">
                           <div className="count-box"><span className="count-number odometer" data-count="6"></span>6k+</div>
                           <p className="text">Total work complete</p>
                         </div>
                         <div className="stat-box bg-theme2 br_br-10 dark">
                           <div className="count-box"><span className="count-number odometer" data-count="1.5"></span>1.5M+</div>
                           <p className="text">Traffic Generates</p>
-                        </div> */}
+                        </div>
                     </div>
                 </div>
             </div>

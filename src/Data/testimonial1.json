@@ -1,26 +1,32 @@
 [
   {
     "img": "/assets/images/testimonial/01.jpg",
-    "subTitle": "Dibrugarh Food Awards",
-    "title": "Kingshuk Kakoti",
-    "desc": "Awesome service. They are really quick and reliable in their service. Thanks to the entire team and specially to Debashish Da for helping me to create a website as per my expectation."  
-  },
-  {
-    "img": "/assets/images/testimonial/01.jpg",
-    "subTitle": "haai.media",
+    "subTitle": "Creative manager JOBCONCEPTS",
     "title": "Yannick Baeyens",
     "desc": "Over the past years I have been able to regularly collaborate with Intolap. I can only recommend them. Their knowledge and inventiveness is remarkable. The communication is very correct and professional. The pricing is competitive. I can't help but highly recommend Intolap."  
   },
   {
-    "img": "/assets/images/testimonial/01.jpg",
-    "subTitle": "UI Designer",
-    "title": "Bar Tov",
-    "desc": "They are very professional developers and very talented ones, and also awesome guys with a lot of patient who are willing to work hard in order to deliver the best result possible. Very recommended!"  
+    "img": "/assets/images/testimonial/02.jpg",
+    "subTitle": "Executive board member & Director at RubyWeb",
+    "title": "Martin Spautz",
+    "desc": "They are very professional developers and very talented ones, and also awesome guys with a lot of patient who are willing to work hard in order to deliver the best result possible."  
   } ,
   {
-    "img": "/assets/images/testimonial/01.jpg",
+    "img": "/assets/images/testimonial/03.jpg",
     "subTitle": "CEO & Founder - Euforia Connect",
     "title": "Melvin Ho",
     "desc": "Worked with the agency for more than 2+ years, and have always had a great experience working with them. Debashis, the founder, always goes out of the way to help us, far beyond what he needs to do. This is something we appreciate a lot, and extremely helpful for us in our line of work."  
-  } 
+  },
+  {
+    "img": "/assets/images/testimonial/04.jpg",
+    "subTitle": "Chief Executive Officer – teamdecoder",
+    "title": "Kai Platschke",
+    "desc": "excellent, proactive, engaged, pragmatic and strategic, it's getting better with every job! happy to have intolap on board of our mytpt startup journey!!"
+  },
+  {
+    "img": "/assets/images/testimonial/05.jpg",
+    "subTitle": "Chief Executive Officer - Crunch Games",
+    "title": "Satya Sadanandan",
+    "desc": "we feel we were lucky to hire him and get a not a vendor but someone who took product ownership and delivered to the highest standards. We will continue to work with him and his team. Highly recommend! Thank you, team!!"  
+  }
 ]

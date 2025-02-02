@@ -25,19 +25,19 @@ const Home = () => {
                 Client="Clients Globally"
                 customers="Happy Customers"
                 rating="4.8"
-                review="(120K Reviews)"
+                review="(reviewed on Trustpilot)"
            ></HeroBanner1>
            <About1
                 subtitle="ABOUT INTOLAP"
                 title="Best <span class='bold'>business consulting <br>  agency </span> for your <br> brand success"
                 rotatetext="  * IT CONSULTANCY * INTERIOR DESIGN  *  FASHION"
-                subtitle2="SINCE 2012"
+                subtitle2="SINCE 2015"
                 // content="Collaboratively <span class='text-theme'>disintermediate</span> one to functionalities and long term impacter compellingly granulars web leveling competencie consult"
 
                 content="We have been driving <span class='text-theme'>innovation and excellence</span> in consulting. Through a collaborative approach, we streamline complex functionalities, ensuring long-term impact and sustainable growth. Our expertise enables businesses to harness granular web technologies, elevating their competencies and positioning them for success in the digital landscape."
 
                 btnname="More About"
-                expyear="12"
+                expyear="10"
                 exptitle="<span class='fw-semibold'>Years of Industry</span> <br> Experience"
                 avatar="/assets/images/about/about02.jpg"
                 name="Debashis Biswas"

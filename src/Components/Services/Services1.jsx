@@ -85,9 +85,9 @@ const Services1 = () => {
                                     <div className="inner-box">
                                         <div className="icon"><i className="bi bi-power"></i></div>
                                         <div className="border mt-50 xs-mt-40 mb-30"></div>
-                                        <h4 className="title">Business Intelligence</h4>
-                                        <p className="text">Collaboratively disintermediate one to one functionalities and long term impact niche compellingly granular</p>
-                                        <Link to="/service/service-details" className="theme-btn service-btn">
+                                        <h4 className="title">INTOLAP TECHNOLOGIES</h4>
+                                        <p className="text">Delivers cutting-edge IT development services, seamlessly integrating personalized functionalities and driving long-term impact with precision and innovation.</p>
+                                        <Link to="https://intolaptech.com" className="theme-btn service-btn">
                                         <i className="bi bi-plus-lg"></i>
                                             <span className="link-text">View Details</span>
                                         </Link>
@@ -103,9 +103,9 @@ const Services1 = () => {
                                     <div className="inner-box">
                                         <div className="icon"><i className="bi bi-puzzle"></i></div>
                                         <div className="border mt-50 xs-mt-40 mb-30"></div>
-                                        <h4 className="title">Business Intelligence</h4>
-                                        <p className="text">Collaboratively disintermediate one to one functionalities and long term impact niche compellingly granular</p>
-                                        <Link to="/service/service-details" className="theme-btn service-btn">
+                                        <h4 className="title">CMSPRESS</h4>
+                                        <p className="text">A comprehensive headless CMS, offering seamless integration, scalability, and flexibility. It empowers businesses with dynamic content management, enabling easy customization.</p>
+                                        <Link to="https://cmspress.intolap.com" className="theme-btn service-btn">
                                         <i className="bi bi-plus-lg"></i>
                                             <span className="link-text">View Details</span>
                                         </Link>
@@ -121,13 +121,13 @@ const Services1 = () => {
                                     <div className="inner-box">
                                         <div className="icon"><i className="bi bi-power"></i></div>
                                         <div className="border mt-50 xs-mt-40 mb-30"></div>
-                                        <h4 className="title">Business Intelligence</h4>
-                                        <p className="text">Collaboratively disintermediate one to one functionalities and long term impact niche compellingly granular</p>
-                                        <Link to="/service/service-details" className="theme-btn service-btn">
+                                        <h4 className="title">LaunchMeLoud</h4>
+                                        <p className="text">LaunchMeLoud is a dynamic startup platform offering innovative tools, expert support, and strategic guidance to help businesses grow, thrive, and succeed in today’s competitive market.</p>
+                                        <Link to="https://launchmeloud.com" className="theme-btn service-btn">
                                         <i className="bi bi-plus-lg"></i>
                                             <span className="link-text">View Details</span>
                                         </Link>
-                                        <span className="serial">01.</span>
+                                        <span className="serial">03.</span>
                                         <div className="p-bottom-right wow slideInRight" data-wow-delay="500ms">
                                             <img src="/assets/images/service/box-shape.png" alt="Service shape" />
                                         </div>
@@ -139,13 +139,13 @@ const Services1 = () => {
                                     <div className="inner-box">
                                         <div className="icon"><i className="bi bi-puzzle"></i></div>
                                         <div className="border mt-50 xs-mt-40 mb-30"></div>
-                                        <h4 className="title">Business Intelligence</h4>
-                                        <p className="text">Collaboratively disintermediate one to one functionalities and long term impact niche compellingly granular</p>
+                                        <h4 className="title">Deviya - Fashion Forward</h4>
+                                        <p className="text">Offering stylish, high-quality accessories designed to empower women. With a focus on elegance and sustainability, we create pieces that complement modern lifestyles while supporting a meaningful cause.</p>
                                         <Link to="/service/service-details" className="theme-btn service-btn">
                                         <i className="bi bi-plus-lg"></i>
                                             <span className="link-text">View Details</span>
                                         </Link>
-                                        <span className="serial">02.</span>
+                                        <span className="serial">04.</span>
                                         <div className="p-top-right wow slideInRight" data-wow-delay="700ms">
                                             <img src="/assets/images/service/box-shape02.png" alt="Service shape" />
                                         </div>
