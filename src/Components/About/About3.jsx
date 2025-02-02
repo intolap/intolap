@@ -19,7 +19,7 @@ const About3 = () => {
                                 <div className="icon-box">
                                     <span className="icon"><i className="icon-since"></i></span>
                                 </div>
-                                <h5 className="since">SINCE 2007</h5>
+                                <h5 className="since">SINCE 2012</h5>
                                 <div className="text">Providing marketing solutions client satisfaction</div>
                             </div>
                         </div>
@@ -28,7 +28,7 @@ const About3 = () => {
                         <div className="about-content-wrapper ml-40 ml-ml-0">
                             <div className="title-area two">
                                 <div className="sub-title">
-                                    <span><i className="asterisk"></i></span>About Bentol
+                                    <span><i className="asterisk"></i></span>About INTOLAP
                                 </div>
                                 <h2 className="sec-title">
                                     Best powerful business <br />

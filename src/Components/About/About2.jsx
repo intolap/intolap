@@ -42,7 +42,7 @@ const About2 = () => {
                 <div className="col-lg-5 col-md-6 col-sm-6">
                     <div className="about-content-wrap">
                         <div className="title-area twoT">
-                            <div className="sub-title"><span><i className="asterisk"></i></span>ABOUT BENTOL</div>
+                            <div className="sub-title"><span><i className="asterisk"></i></span>ABOUT INTOLAP</div>
                             <h2 className="sec-title">Best powerfull business <br/> <span className="bold">consulting agency for</span> <br/> brand success</h2>
                         </div>
                         <ul className="features-list">

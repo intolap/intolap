@@ -8,7 +8,7 @@ const Choose3 = () => {
                     <div className="col-lg-6">
                         <div className="choose-content-wrapper">
                             <div className="title-area two dark">
-                                <div className="sub-title"><span><i className="asterisk"></i></span>Why Bentol</div>
+                                <div className="sub-title"><span><i className="asterisk"></i></span>Why INTOLAP</div>
                                 <h2 className="sec-title">We make the creative digital <br/> <span className="bold">marketing</span> solutions</h2>
                                 <p className="sec-text text-gray">Collaboratively supply bricks-and-clicks metrics for maintainable users <br/> reinvent unique value for just in time consult.</p>
                             </div>

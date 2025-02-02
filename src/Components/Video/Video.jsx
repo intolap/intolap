@@ -26,7 +26,7 @@ const Video = () => {
                                 <a className="popup-video" onClick={handelClick} data-fancybox="video-gallery">
                                     <div className="inner-popup d-flex align-items-center">
                                         <span className="icon"><i className="bi bi-play-fill"></i></span>
-                                        <p><strong>Watch</strong><br/>Bentol Story</p>
+                                        <p><strong>Watch</strong><br/>INTOLAP Story</p>
                                     </div>
                                 </a>
                                 <div className="image-box">

@@ -41,7 +41,7 @@ export default function Header4({ variant }) {
           <div className="cs_top_header_in header-style2">
             <div className="cs_top_header_left header-info">
                 <ul className="list-style-1">
-                    <li><i className="icon icon-bentol"></i>Bentol - Strategic process for your finance consult.</li>
+                    <li><i className="icon icon-bentol"></i>INTOLAP - Strategic process for your finance consult.</li>
                     <li><a href="mailto:example@gmail.com"><i className="bi bi-envelope-fill icon"></i>example@gmail.com</a></li>
                   </ul>
             </div>

@@ -28,7 +28,7 @@ const HeroBanner2 = () => {
                                 <a className="popup-video" onClick={handelClick}  data-fancybox="video-gallery">
                                     <div className="inner-popup d-flex align-items-center">
                                         <span className="icon"><i className="bi bi-play-fill"></i></span>
-                                        <p><strong>Watch</strong><br/>Bentol Story</p>
+                                        <p><strong>Watch</strong><br/>INTOLAP Story</p>
                                     </div>
                                 </a>
                                 <h1 className="title">Digital <span className="orange-dot"><i className="asterisk"></i></span> Solution <br/> Finance Consulting</h1>
@@ -40,7 +40,7 @@ const HeroBanner2 = () => {
                                         <span className="effect-1">Free Consultation</span>
                                     </span><i className="bi bi-arrow-right"></i>
                                 </Link>
-                                <div className="since"><span>Since - 2006</span></div>
+                                <div className="since"><span>Since - 2012</span></div>
                             </div>
                         </div>
 

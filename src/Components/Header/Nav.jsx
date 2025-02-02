@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 export default function Nav({ setMobileToggle }) {
   return (
     <ul className="cs_nav_list fw-medium">
-      <li className="menu-item-has-children">
+      <li className="menu-item">
         <Link to="/">Home</Link>
-        <DropDown>
+        {/* <DropDown>
           <ul>
             <li>
               <Link to="/" onClick={() => setMobileToggle(false)}>
@@ -24,7 +24,7 @@ export default function Nav({ setMobileToggle }) {
               </Link>
             </li>            
           </ul>
-        </DropDown>
+        </DropDown> */}
       </li>
       <li className="menu-item-has-children">
         <Link to="#">Pages</Link>

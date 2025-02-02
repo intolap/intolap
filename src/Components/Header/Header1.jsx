@@ -40,7 +40,7 @@ export default function Header1({ variant }) {
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
               <Link to="/" className="cs_site_branding">
-                <img src="/assets/images/logo/logo-main.png" alt="Logo" />
+                <img src="/assets/images/logo/logo.png" alt="Logo" />
               </Link>
               </div>
               <div className="cs_main_header_center">
@@ -85,7 +85,7 @@ export default function Header1({ variant }) {
             </button>
             <div className="sidebar-content">
                 <div className="sidebar-logo">
-                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo-main.png" alt="logo" /></a>
+                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo.png" alt="logo" /></a>
                 </div>
                 <div className="sidebar-menu-wrap"></div>
                 <div className="sidebar-about">

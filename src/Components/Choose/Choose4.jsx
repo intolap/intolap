@@ -6,7 +6,7 @@ const Choose4 = () => {
                 <div className="row gy-30">
                     <div className="col-lg-3 col-md-6 col-sm-6">
                         <div className="title-area mb-0">
-                            <div className="sub-title"><span><i className="asterisk"></i></span>WHY BENTOL</div>
+                            <div className="sub-title"><span><i className="asterisk"></i></span>WHY INTOLAP</div>
                             <h2 className="sec-title mb-0">We make the <br/>most <span className="bold">creative</span> <br/> solutions</h2>
                         </div>
                     </div>

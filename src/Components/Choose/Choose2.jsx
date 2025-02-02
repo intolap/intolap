@@ -27,7 +27,7 @@ const Choose2 = () => {
                         <div className="col-lg-6">
                             <div className="choose-content-wrapper pl-60 ltm-pl-0">
                                 <div className="title-area two white">
-                                    <div className="sub-title"><span><i className="asterisk"></i></span>Why Bentol</div>
+                                    <div className="sub-title"><span><i className="asterisk"></i></span>Why INTOLAP</div>
                                     <h2 className="sec-title">We make the creative digital <br /> <span className="bold text-theme2">finance const.</span> solution</h2>
                                     <p className="sec-text">Collaboratively supply bricks-and-clicks metrics for maintainable users reinvent unique value for just in time consult.</p>
                                 </div>

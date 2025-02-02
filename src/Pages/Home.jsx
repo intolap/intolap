@@ -16,41 +16,44 @@ const Home = () => {
     return (
         <div>
            <HeroBanner1
-                videotext="<strong>Watch</strong><br>Intolap Story"
+                videotext="<strong>Watch</strong><br>INTOLAP STORY"
                 title="Unleashing <br><span class='bold'>Innovations</span><br> Empowering <br><span class='bold'>Growth</span>"
-                btnname="Let’s Talk Intolap"
+                btnname="Let’s Talk"
                 btnurl="/contact"
                 mainimg="/assets/images/banner/hero-img-1.jpg"
-                Clientnumber="5k"
-                Client="We Consultant Client World-wide"
+                Clientnumber="1k+"
+                Client="Clients Globally"
                 customers="Happy Customers"
                 rating="4.8"
                 review="(120K Reviews)"
            ></HeroBanner1>
            <About1
                 subtitle="ABOUT INTOLAP"
-                title="Best powerfull business <br> <span class='bold'>consulting agency for</span> <br> brand success"
-                rotatetext="* IT BUSINESS  *  CONSULTANTIS  *  DEVELOPMENTS"
-                subtitle2="SINCE 2006"
-                content="Collaboratively <span class='text-theme'>disintermediate</span> one to functionalities and long term impacter compellingly granulars web leveling competencie consult"
+                title="Best <span class='bold'>business consulting <br>  agency </span> for your <br> brand success"
+                rotatetext="  * IT CONSULTANCY * INTERIOR DESIGN  *  FASHION"
+                subtitle2="SINCE 2012"
+                // content="Collaboratively <span class='text-theme'>disintermediate</span> one to functionalities and long term impacter compellingly granulars web leveling competencie consult"
+
+                content="We have been driving <span class='text-theme'>innovation and excellence</span> in consulting. Through a collaborative approach, we streamline complex functionalities, ensuring long-term impact and sustainable growth. Our expertise enables businesses to harness granular web technologies, elevating their competencies and positioning them for success in the digital landscape."
+
                 btnname="More About"
-                expyear="18"
-                exptitle="<span class='fw-semibold'>Years of</span> <br>Pro Experiences"
+                expyear="12"
+                exptitle="<span class='fw-semibold'>Years of Industry</span> <br> Experience"
                 avatar="/assets/images/about/about02.jpg"
-                name="DAVID WATSON"
+                name="Debashis Biswas"
                 designation="CEO Founder"
            ></About1>
-           <Partner1></Partner1>
+           {/* <Partner1></Partner1> */}
            <Services1></Services1>
            <Choose1></Choose1>
-           <Process></Process>
+           {/* <Process></Process> */}
            <Testimonial></Testimonial>
-           <ContactInfo1></ContactInfo1>
-           <Pricing1></Pricing1>
-           <Marquee></Marquee>
-           <Blog1></Blog1>
-           <ContactList></ContactList>
-           <Nwesletter addclass="newsletter-section"></Nwesletter>
+           {/* <ContactInfo1></ContactInfo1> */}
+           {/* <Pricing1></Pricing1> */}
+           {/* <Marquee></Marquee> */}
+           {/* <Blog1></Blog1> */}
+           {/* <ContactList></ContactList> */}
+           {/* <Nwesletter addclass="newsletter-section"></Nwesletter> */}
         </div>
     );
 };

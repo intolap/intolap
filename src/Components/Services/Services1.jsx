@@ -56,11 +56,12 @@ const Services1 = () => {
                     <div className="service-content-wrap">
                         <div className="title-area two white">
                             <div className="sub-title">
-                                <span><i className="asterisk"></i></span>Services
+                                <span><i className="asterisk"></i></span>Our Industry Presence
                             </div>
                             <div className="title-wrap">
-                                <h2 className="sec-title">Providing the best <br/> <span className="bold"><span className="text-theme2">digital</span> agency</span> <br/> solutions</h2>
-                                <p className="sec-text">Credibly harness client-centric opportunities with prospective bandwidth</p>
+                                {/* <h2 className="sec-title">Providing the best <br/> <span className="bold"><span className="text-theme2">digital</span> agency</span> <br/> solutions</h2> */}
+                                <h2 className="sec-title">Empowering Businesses <br/> <span className="bold"><span className="text-theme2">Transforming Industries</span> </span> </h2>
+                                <p className="sec-text">Driving innovation and sustainable growth across diverse sectors with strategic expertise and cutting-edge solutions.</p>
                             </div>
                         </div>
                         <div className="service-btn-wrapper">
@@ -69,7 +70,7 @@ const Services1 = () => {
                                 <button onClick={next} className="array-next active"><i className="bi bi-arrow-right"></i></button>
                             </div>
                             <div className="service-btn">
-                                <Link to="/service">ALL SERVICES +</Link>
+                                <Link to="/service">ALL BRANDS +</Link>
                             </div>
                         </div>
                     </div>
@@ -166,7 +167,7 @@ const Services1 = () => {
                                 <img src="/assets/images/service/social-img01.jpg" alt="Client 01" />
                                 <img src="/assets/images/service/social-img02.jpg" alt="Client 02" />
                             </div>
-                            <p className="text">Partnering with you to transform your vision into reality.</p>
+                            <p className="text">Partnering with us to transform your vision into reality.</p>
                         </div>
                         <div className="contact-btn">
                             <Link to="/contact" className="theme-btn">

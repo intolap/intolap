@@ -56,7 +56,7 @@ const Partner1 = () => {
                                     </Slider>
                                 </div>
                             </div>
-                            <div className="trusted-partners text-right mb--10"><span className="bg-white pl-10">Almost <span className="text-theme">3k+ Partners</span> we have</span></div>
+                            {/* <div className="trusted-partners text-right mb--10"><span className="bg-white pl-10">Almost <span className="text-theme">3k+ Partners</span> we have</span></div> */}
                         </div>
                     </div>
                 </div>

@@ -41,7 +41,7 @@ export default function Header2({ variant }) {
           <div className="cs_top_header_in header-style2">
             <div className="cs_top_header_left header-info">
                 <ul className="list-style-1">
-                    <li><i className="icon icon-bentol"></i>Bentol - Strategic process for your finance consult.</li>
+                    <li><i className="icon icon-bentol"></i>INTOLAP - Strategic process for your finance consult.</li>
                     <li><a href="mailto:example@gmail.com"><i className="bi bi-envelope-fill icon"></i>example@gmail.com</a></li>
                   </ul>
             </div>
@@ -115,14 +115,15 @@ export default function Header2({ variant }) {
             </button>
             <div className="sidebar-content">
                 <div className="sidebar-logo">
-                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo-main.png" alt="logo" /></a>
+                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo.png" alt="logo" /></a>
                 </div>
                 <div className="sidebar-menu-wrap"></div>
                 <div className="sidebar-about">
                     <div className="sidebar-header">
                         <h3>About Us</h3>
                     </div>
-                    <p>Efficient strategies for optimizing operational workflows are essential for business growth. Our team focuses on providing tailored solutions to enhance productivity and drive innovation.</p>
+                    <p>We design efficient strategies to streamline operations, enhance productivity, and drive sustainable growth. Our expert team delivers tailored solutions that foster innovation and empower businesses to thrive in a dynamic market.</p> 
+                    <p>Let me know if you’d like further refinements!</p>
                     <Link to="/contact" className="theme-btn">
                         <span className="link-effect">
                             <span className="effect-1">Contact Us</span>

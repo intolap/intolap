@@ -9,7 +9,7 @@ const ContactInfo3 = () => {
                     <div className="contact-content-wrap">
                         <div className="title-area twoT">
                             <div className="sub-title"><span><i className="asterisk"></i></span>CONTACT US</div>
-                            <h2 className="sec-title">Get in touch with bentol <br/> <span className="bold">contact</span> information</h2>
+                            <h2 className="sec-title">Get in touch with INTOLAP <br/> <span className="bold">contact</span> information</h2>
                             <p className="sec-text text-gray">We’re always ready to helps your business. Let’s talk with us</p>
                         </div>
                         <div className="contact-info">

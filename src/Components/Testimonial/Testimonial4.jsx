@@ -36,7 +36,7 @@ const Testimonial4 = () => {
                         <div className="testi-content-wrap">
                             <div className="title-area twoT">
                                 <div className="sub-title"><span><i className="asterisk"></i></span>TESTIMONIAL</div>
-                                <h2 className="sec-title">Whats saying our <br/><span className="bold">customers about</span> <br/>bentol service</h2>
+                                <h2 className="sec-title">Whats saying our <br/><span className="bold">customers about</span> <br/>INTOLAP service</h2>
                             </div>
                             <div className="pb-30"><div className="border"></div></div>
                             <div className="testi-clutch">

@@ -1,20 +1,26 @@
 [
   {
     "img": "/assets/images/testimonial/01.jpg",
-    "subTitle": "UI Designer",
-    "title": "David Alexon",
-    "desc": "Dramatically enable resource sucking improvement diverse user. Dynamically mycoordinate introduces standards experiences had without paralleling had flexible best practices done."  
+    "subTitle": "Dibrugarh Food Awards",
+    "title": "Kingshuk Kakoti",
+    "desc": "Awesome service. They are really quick and reliable in their service. Thanks to the entire team and specially to Debashish Da for helping me to create a website as per my expectation."  
+  },
+  {
+    "img": "/assets/images/testimonial/01.jpg",
+    "subTitle": "haai.media",
+    "title": "Yannick Baeyens",
+    "desc": "Over the past years I have been able to regularly collaborate with Intolap. I can only recommend them. Their knowledge and inventiveness is remarkable. The communication is very correct and professional. The pricing is competitive. I can't help but highly recommend Intolap."  
   },
   {
     "img": "/assets/images/testimonial/01.jpg",
     "subTitle": "UI Designer",
-    "title": "David Alexon",
-    "desc": "Dramatically enable resource sucking improvement diverse user. Dynamically mycoordinate introduces standards experiences had without paralleling had flexible best practices done."  
-  },
+    "title": "Bar Tov",
+    "desc": "They are very professional developers and very talented ones, and also awesome guys with a lot of patient who are willing to work hard in order to deliver the best result possible. Very recommended!"  
+  } ,
   {
     "img": "/assets/images/testimonial/01.jpg",
-    "subTitle": "UI Designer",
-    "title": "David Alexon",
-    "desc": "Dramatically enable resource sucking improvement diverse user. Dynamically mycoordinate introduces standards experiences had without paralleling had flexible best practices done."  
+    "subTitle": "CEO & Founder - Euforia Connect",
+    "title": "Melvin Ho",
+    "desc": "Worked with the agency for more than 2+ years, and have always had a great experience working with them. Debashis, the founder, always goes out of the way to help us, far beyond what he needs to do. This is something we appreciate a lot, and extremely helpful for us in our line of work."  
   } 
 ]

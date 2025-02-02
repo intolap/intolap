@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const Footer = () => {
     return (
         <footer className="footer-section bg-dark">
-        <div className="footer-top space">
+        {/* <div className="footer-top space">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-4 col-md-4 col-sm-6 footer-brand">
@@ -65,12 +65,12 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </div> */}
         <div className="footer-bottom">
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
-                        <p className="mb-0">&copy;2024 - All Rights Reserved by <a href="https://themeforest.net/user/theme-vally">Theme-vally</a></p>
+                        <p className="mb-0">&copy;2012-2025 - INTOLAP (CIN: U72900WB2022PTC258219)</p>
                     </div>
                     <div className="col-md-6 text-md-end">
                         <div className="footer-policy">

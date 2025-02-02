@@ -61,7 +61,7 @@ const Testimonial2 = () => {
             <div className="testi-content-wrapper">
               <div className="title-area two">
                 <div className="sub-title"><span><i className="asterisk"></i></span>TESTIMONIALS</div>
-                <h2 className="sec-title">What’s our satisfied clients <br /><span className="bold">feedback</span> about bentol</h2>
+                <h2 className="sec-title">What’s our satisfied clients <br /><span className="bold">feedback</span> about INTOLAP</h2>
               </div>
               <div className="testi-slider-2 swiper">
                 <div className="swiper-wrapper">

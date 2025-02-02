@@ -56,7 +56,7 @@ const Testimonial = () => {
                     <div className="testi-content-wrap">
                         <div className="title-area two white">
                             <div className="sub-title"><span><i className="asterisk"></i></span>TESTIMONIAL</div>
-                            <h2 className="sec-title">What’s our satisfied <br/><span className="bold"><span className="text-theme2">customers</span> feedback</span> <br/> about bentol</h2>
+                            <h2 className="sec-title">What’s our satisfied <br/><span className="bold"><span className="text-theme2">customers</span> feedback</span> <br/> about INTOLAP</h2>
                         </div>
                         <div className="pb-30"><div className="border white"></div></div>
                         <div className="testi-clutch">
@@ -108,14 +108,14 @@ const Testimonial = () => {
                         </div>
                     </div>
                     <div className="stats-container mt-50 md-pb-80">
-                        <div className="stat-box bg-theme br_tl-10 white">
+                        {/* <div className="stat-box bg-theme br_tl-10 white">
                           <div className="count-box"><span className="count-number odometer" data-count="6"></span>6k+</div>
                           <p className="text">Total work complete</p>
                         </div>
                         <div className="stat-box bg-theme2 br_br-10 dark">
                           <div className="count-box"><span className="count-number odometer" data-count="1.5"></span>1.5M+</div>
                           <p className="text">Traffic Generates</p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

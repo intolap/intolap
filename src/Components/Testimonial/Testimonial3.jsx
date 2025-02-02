@@ -42,7 +42,7 @@ const Testimonial3 = () => {
                     <div className="testi-title-wrap mb-60 md-mb-40">
                         <div className="title-area mb-0">
                             <div className="sub-title"><span><i className="asterisk"></i></span>Testimonials</div>
-                            <h2 className="sec-title mb-0">What is our satisfied clients <br/><span className="bold">feedback</span> about bentol</h2>
+                            <h2 className="sec-title mb-0">What is our satisfied clients <br/><span className="bold">feedback</span> about INTOLAP</h2>
                         </div>
                         <div className="review-card">
                             <div className="review-content">
