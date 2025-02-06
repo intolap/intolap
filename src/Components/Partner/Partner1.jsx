@@ -40,7 +40,7 @@ const Partner1 = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <div className="sponsors-outer">
-                            <div className="trusted-partners mt--15"><span className="bg-white pr-10">Our Trusted Partners</span></div>
+                            <div className="trusted-partners mt--15"><span className="bg-white pr-10">Our Esteemed Clients</span></div>
                             <div className="brands-slider swiper">
                                 <div className="swiper-wrapper">
                                     <Slider {...settings}>
@@ -57,6 +57,7 @@ const Partner1 = () => {
                                 </div>
                             </div>
                             {/* <div className="trusted-partners text-right mb--10"><span className="bg-white pl-10">Almost <span className="text-theme">3k+ Partners</span> we have</span></div> */}
+                            <div className="trusted-partners text-right mb--10"><span className="bg-white pl-10">These are some of our <span className="text-theme">happy INTOLAP clients!</span></span></div>
                         </div>
                     </div>
                 </div>

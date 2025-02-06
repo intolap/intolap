@@ -61,7 +61,8 @@ export default function Header1({ variant }) {
             <div className="cs_main_header_right">
               <div className="header-btn header-right-wrapper">
               <div className="header-right">
-                  <a href="tel:+181234567" className="header-btn"><span className="fa-solid fa-headphones"></span>+91 70636 98517</a>
+                  {/* <a href="tel:+181234567" className="header-btn"><span className="fa-solid fa-headphones"></span>+91 70636 98517</a> */}
+                  <a href="mailto:info@intolap.com" className="header-btn"><i className="bi bi-envelope-fill icon"></i> info@intolap.com</a>
                   <div className="sidebar-icon" onClick={() => setSideNav(!sideNav)}>
                       <button className="sidebar-trigger open" >
                           <span className="fa-solid fa-bars"></span>

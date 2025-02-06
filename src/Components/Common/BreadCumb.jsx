@@ -18,7 +18,7 @@ const BreadCumb = ({bg,Title,Content}) => {
               <div className="page-title">
                   <h2 className="title">{Title}</h2>
                   <ul className="page-breadcrumb">
-                      <li><Link to="/">Home Main</Link></li>
+                      <li><Link to="/">Home</Link></li>
                       <li>{Title}</li>
                   </ul>
               </div>

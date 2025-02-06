@@ -6,23 +6,19 @@ const Marquee = () => {
                 <div className="slider__marquee clearfix marquee-wrap">
                     <ul className="marquee_mode marquee__group">
                         <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS CONSULTANT</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> FREE CONSULTATION</li>
                         <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> MARKETING STRATEGY</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> INNOVATION</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BRANDING</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS LAUNCH</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> SAAS DEVELOPMENT</li>
                     </ul>
                     <ul className="marquee_mode marquee__group">
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS CONSULTANT</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> FREE CONSULTATION</li>
+                    <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS CONSULTANT</li>
                         <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> MARKETING STRATEGY</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
-                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS GROWING</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> INNOVATION</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BRANDING</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> BUSINESS LAUNCH</li>
+                        <li className="item m-item"><img className="icon" src="/assets/images/shapes/star3.png" alt="" /> SAAS DEVELOPMENT</li>
                     </ul>                    
                 </div>
             </div>

@@ -6,7 +6,7 @@ const Process3 = () => {
             <div className="container">
                 <div className="title-area three text-center">
                     <div className="sub-title"><span><i className="asterisk"></i></span>SIMPLE PROCESS</div>
-                    <h2 className="sec-title">Finished task follow <span className="bold">the process</span></h2>
+                    <h2 className="sec-title">Finished task following <span className="bold">the process</span></h2>
                 </div>
                 <div className="row">
                     <div className="col-lg-12">
@@ -18,8 +18,8 @@ const Process3 = () => {
                                     <div className="line-long"><i className="line-long-arrow"></i></div>
                                 </div>
                                 <div className="content">
-                                    <h4 className="title">Comercial planning <br/> <span className="fw-normal">for business</span></h4>
-                                    <p className="text mb-0">Collaboratively disintermediate in impacter compellingly archite info all tasks completed</p>
+                                    <h4 className="title">Strategic Planning <br/> <span className="fw-normal">for business</span></h4>
+                                    <p className="text mb-0">Develop a clear roadmap for success, aligning objectives with market opportunities.</p>
                                 </div>
                             </div>
                             <div className="process-step xs-mt-30">
@@ -29,8 +29,8 @@ const Process3 = () => {
                                     <div className="line-long"><i className="line-long-arrow"></i></div>
                                 </div>
                                 <div className="content">
-                                    <h4 className="title">Information gather <br/> <span className="fw-normal">and security</span></h4>
-                                    <p className="text mb-0">Collaboratively disintermediate in impacter compellingly archite info all tasks completed</p>
+                                    <h4 className="title">Data Collection <br/> <span className="fw-normal">& security</span></h4>
+                                    <p className="text mb-0">Gather essential information while ensuring data integrity and protection.</p>
                                 </div>
                             </div>
                             <div className="process-step md-mt-30">
@@ -40,8 +40,8 @@ const Process3 = () => {
                                     <div className="line-long"><i className="line-long-arrow"></i></div>
                                 </div>
                                 <div className="content">
-                                    <h4 className="title">Related competitor<br/> <span className="fw-normal">research</span></h4>
-                                    <p className="text mb-0">Collaboratively disintermediate in impacter compellingly archite info all tasks completed</p>
+                                    <h4 className="title">Market & Competitor <br/> <span className="fw-normal">Analysis</span></h4>
+                                    <p className="text mb-0">Evaluate industry trends and competitors to refine strategies.</p>
                                 </div>
                             </div>
                             <div className="process-step md-mt-30">
@@ -51,8 +51,8 @@ const Process3 = () => {
                                     <div className="line-long"><i className="line-long-arrow"></i></div>
                                 </div>
                                 <div className="content">
-                                    <h4 className="title">Finished process<br/> <span className="fw-normal">highly impact</span></h4>
-                                    <p className="text mb-0">Collaboratively disintermediate in impacter compellingly archite info all tasks completed</p>
+                                    <h4 className="title">Process Completion <br/> <span className="fw-normal">& Impact</span></h4>
+                                    <p className="text mb-0">Execute the plan effectively, ensuring optimal results and measurable success.</p>
                                 </div>
                             </div>
                         </div>

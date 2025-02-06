@@ -41,8 +41,8 @@ export default function Header2({ variant }) {
           <div className="cs_top_header_in header-style2">
             <div className="cs_top_header_left header-info">
                 <ul className="list-style-1">
-                    <li><i className="icon icon-bentol"></i>INTOLAP - Strategic process for your finance consult.</li>
-                    <li><a href="mailto:example@gmail.com"><i className="bi bi-envelope-fill icon"></i>example@gmail.com</a></li>
+                    <li><i className="icon icon-intolap"></i>Strategic process for business consultation.</li>
+                    <li><a href="mailto:info@intolap.com"><i className="bi bi-envelope-fill icon"></i>info@intolap.com</a></li>
                   </ul>
             </div>
             <div className="cs_top_header_right">
@@ -50,10 +50,10 @@ export default function Header2({ variant }) {
                 <div className="cs_header_social_links top-header-social-icon">
                   <ul className="social-icon-one">
                   <li><span className="menu-follow_title">Follow Us :</span></li>
-                    <li><a href="#"><i className="bi bi-facebook"></i></a></li>
-                    <li><a href="#"><i className="bi bi-twitter"></i></a></li>
-                    <li><a href="#"><i className="bi bi-linkedin"></i></a></li>
-                    <li><a href="#"><i className="bi bi-instagram"></i></a></li>
+                    <li><a href="https://www.facebook.com/intolap"><i className="bi bi-facebook"></i></a></li>
+                    <li><a href="https://www.x.com/intolap"><i className="bi bi-twitter"></i></a></li>
+                    <li><a href="https://www.linkedin.com/company/intolap/"><i className="bi bi-linkedin"></i></a></li>
+                    {/* <li><a href="#"><i className="bi bi-instagram"></i></a></li> */}
                 </ul>
                 </div>
               </div>
@@ -89,7 +89,7 @@ export default function Header2({ variant }) {
             <div className="cs_main_header_right">
               <div className="solutek-btn2 header-2-btn header-right-wrapper">
                 <div className="header-right">
-                        <a href="tel:+181234567890" className="header-btn"><span className="fa-solid fa-headphones"></span>+18 123 (4567) 890</a>
+                        <a href="tel:+181234567890" className="header-btn"><span className="fa-solid fa-headphones"></span>+91 70636 98517</a>
                         <div className="sidebar-icon" onClick={() => setSideNav(!sideNav)}>
                             <button className="sidebar-trigger open">
                                 <span className="fa-solid fa-bars"></span>

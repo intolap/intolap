@@ -17,7 +17,7 @@ const Nwesletter = ({addclass}) => {
                             </div>
                             <div className="email-details">
                                 <p>Send e-Mail</p>
-                                <a href="mailto:example@gmail.com">example@gmail.com</a>
+                                <a href="mailto:example@gmail.com">info@intolap.com</a>
                             </div>
                         </div>
                     </div>

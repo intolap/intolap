@@ -9,11 +9,11 @@ const ContactPage = () => {
              <BreadCumb
                 bg="/assets/images/bg-img/breadcrumb.jpg"
                 Title="Contact Us"
-                Content="Completely restore extensive materials interactive solutions. <br> Progressively myocardinate viral paradigms"
+                Content="Seamlessly revolutionize innovative technology ecosystems with cutting-edge solutions."
             ></BreadCumb>   
             <ContactInfo3></ContactInfo3>
-            <Brances></Brances>
-            <Nwesletter addclass="newsletter-section bg-white"></Nwesletter>              
+            {/* <Brances></Brances> */}
+            {/* <Nwesletter addclass="newsletter-section bg-white"></Nwesletter>               */}
         </div>
     );
 };

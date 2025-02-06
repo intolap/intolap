@@ -8,22 +8,22 @@ const Counter2 = () => {
                 <div className="row align-items-center justify-content-between">
                     <div className="col-lg-5">
                         <div className="title-area mb-0 md-mb-40">
-                            <h2 className="sec-title mb-0">Our achivement from 18+ <br/>years of <span className="bold">marketing</span></h2>
+                            <h2 className="sec-title mb-0">Our achivement from 10+ <br/>years of <span className="bold">consulting</span></h2>
                         </div>
                     </div>
                     <div className="col-lg-7">
                         <div className="achievement-stats">
                             <div className="stat-item">
-                                <div className="count-box"><span className="count-number odometer" data-count="10">10</span>k+</div>
-                                <p className="text">Work Completed</p>
+                                <div className="count-box"><span className="count-number odometer" data-count="10">1.5</span>k+</div>
+                                <p className="text">Projects Completed</p>
                             </div>
                             <div className="stat-item">
-                                <div className="count-box"><span className="count-number odometer" data-count="97">97</span>%</div>
+                                <div className="count-box"><span className="count-number odometer" data-count="1">1</span>k+</div>
+                                <p className="text">Global Clients</p>
+                            </div>
+                            <div className="stat-item">
+                                <div className="count-box"><span className="count-number odometer" data-count="98">98</span>%</div>
                                 <p className="text">Satisfaction Rate</p>
-                            </div>
-                            <div className="stat-item">
-                                <div className="count-box"><span className="count-number odometer" data-count="100">100</span></div>
-                                <p className="text">Expert members</p>
                             </div>
                         </div>
                     </div>

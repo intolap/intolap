@@ -109,12 +109,12 @@ const Testimonial = () => {
                     </div>
                     <div className="stats-container mt-50 md-pb-80">
                         <div className="stat-box bg-theme br_tl-10 white">
-                          <div className="count-box"><span className="count-number odometer" data-count="6"></span>6k+</div>
-                          <p className="text">Total work complete</p>
+                          <div className="count-box"><span className="count-number odometer" data-count="6"></span>1.5k+</div>
+                          <p className="text">Projects</p>
                         </div>
                         <div className="stat-box bg-theme2 br_br-10 dark">
-                          <div className="count-box"><span className="count-number odometer" data-count="1.5"></span>1.5M+</div>
-                          <p className="text">Traffic Generates</p>
+                          <div className="count-box"><span className="count-number odometer" data-count="1.5"></span>1k+</div>
+                          <p className="text">Clients</p>
                         </div>
                     </div>
                 </div>

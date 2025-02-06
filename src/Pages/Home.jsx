@@ -25,7 +25,7 @@ const Home = () => {
                 Client="Clients Globally"
                 customers="Happy Customers"
                 rating="4.8"
-                review="(reviewed on Trustpilot)"
+                review=" (reviewed on Trustpilot)"
            ></HeroBanner1>
            <About1
                 subtitle="ABOUT INTOLAP"

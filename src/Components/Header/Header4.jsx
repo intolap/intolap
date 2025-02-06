@@ -29,46 +29,44 @@ export default function Header4({ variant }) {
 
   return (
     <div className='header-area2 header_nav_03 header-4-area'>
-    <header
-      className={`cs_site_header cs_style_1 ${
-        variant ? variant : ''
-      } cs_sticky_header cs_site_header_full_width ${
-        mobileToggle ? 'cs_mobile_toggle_active' : ''
-      } ${isSticky ? isSticky : ''}`}
-    >
-      <div className="cs_top_header">
-        <div className="container-fluid">
-          <div className="cs_top_header_in header-style2">
-            <div className="cs_top_header_left header-info">
+      <header
+        className={`cs_site_header cs_style_1 ${variant ? variant : ''
+          } cs_sticky_header cs_site_header_full_width ${mobileToggle ? 'cs_mobile_toggle_active' : ''
+          } ${isSticky ? isSticky : ''}`}
+      >
+        <div className="cs_top_header">
+          <div className="container-fluid">
+            <div className="cs_top_header_in header-style2">
+              <div className="cs_top_header_left header-info">
                 <ul className="list-style-1">
-                    <li><i className="icon icon-bentol"></i>INTOLAP - Strategic process for your finance consult.</li>
-                    <li><a href="mailto:example@gmail.com"><i className="bi bi-envelope-fill icon"></i>example@gmail.com</a></li>
-                  </ul>
-            </div>
-            <div className="cs_top_header_right">
-            <div className="cs_header_social_links_wrap">
-                <div className="cs_header_social_links top-header-social-icon">
-                  <ul className="social-icon-one">
-                  <li><span className="menu-follow_title">Follow Us :</span></li>
-                    <li><a href="#"><i className="bi bi-facebook"></i></a></li>
-                    <li><a href="#"><i className="bi bi-twitter"></i></a></li>
-                    <li><a href="#"><i className="bi bi-linkedin"></i></a></li>
-                    <li><a href="#"><i className="bi bi-instagram"></i></a></li>
+                  <li><i className="icon icon-intolap"></i>Strategic process for business consultation.</li>
+                  <li><a href="mailto:info@intolap.com"><i className="bi bi-envelope-fill icon"></i>info@intolap.com</a></li>
                 </ul>
+              </div>
+              <div className="cs_top_header_right">
+                <div className="cs_header_social_links_wrap">
+                  <div className="cs_header_social_links top-header-social-icon">
+                    <ul className="social-icon-one">
+                      <li><span className="menu-follow_title">Follow Us :</span></li>
+                      <li><a href="https://www.facebook.com/intolap"><i className="bi bi-facebook"></i></a></li>
+                      <li><a href="https://www.x.com/intolap"><i className="bi bi-twitter"></i></a></li>
+                      <li><a href="https://www.linkedin.com/company/intolap/"><i className="bi bi-linkedin"></i></a></li>
+                      {/* <li><a href="#"><i className="bi bi-instagram"></i></a></li> */}
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-      <div className="cs_main_header cs_accent_bg">
-        <div className="container-fluid">
-          <div className="cs_main_header_in">
+        <div className="cs_main_header cs_accent_bg">
+          <div className="container-fluid">
+            <div className="cs_main_header_in">
 
-            <div className="cs_main_header_left">
-              <Link className="cs_site_branding" to="/">
-                <img src="/assets/images/logo/logo-2.png" alt="Logo" />
-              </Link>
+              <div className="cs_main_header_left">
+                <Link className="cs_site_branding" to="/">
+                  <img src="/assets/images/logo/logo-2.png" alt="Logo" />
+                </Link>
               </div>
 
               <div className="cs_main_header_center">
@@ -85,39 +83,39 @@ export default function Header4({ variant }) {
                   </span>
                   <Nav setMobileToggle={setMobileToggle} />
                 </div>
-            </div>
-            <div className="cs_main_header_right">
-            <div className="solutek-btn2 header-2-btn header-right-wrapper header-3-right">
-              <div className="header-right">
-                    <button onClick={() => setSearchToggle(!searchToggle)} className="search-btn">
+              </div>
+              <div className="cs_main_header_right">
+                <div className="solutek-btn2 header-2-btn header-right-wrapper header-3-right">
+                  <div className="header-right">
+                    {/* <button onClick={() => setSearchToggle(!searchToggle)} className="search-btn">
                             <span className="icon"><i className="bi bi-search"></i></span>
-                        </button>
-                        <Link to="/contact" className="theme-btn bg-theme">
-                            <span className="link-effect">
-                                <span className="effect-1">Get a Quote</span>
-                                <span className="effect-1">Get a Quote</span>
-                            </span><i className="bi bi-arrow-right"></i>
-                        </Link>
-                    </div>
+                        </button> */}
+                    <Link to="/contact" className="theme-btn bg-theme">
+                      <span className="link-effect">
+                        <span className="effect-1">Let's Talk</span>
+                        <span className="effect-1">Let's Talk</span>
+                      </span><i className="bi bi-arrow-right"></i>
+                    </Link>
                   </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
+      </header>
+
+      <div className={`search-popup ${searchToggle ? 'active' : ''}`} >
+        <button onClick={() => setSearchToggle(!searchToggle)} className="close-search style-1"><i className="bi bi-x-lg"></i></button>
+        <button onClick={() => setSearchToggle(!searchToggle)} className="close-search"><i className="bi bi-arrow-up"></i></button>
+        <form method="post" action="#">
+          <div className="form-group">
+            <input id="search1" type="search" name="search-field" placeholder="Search..." />
+            <button type="submit"><i className="bi bi-search"></i></button>
+          </div>
+        </form>
       </div>
-    </header>
-    
-    <div className={`search-popup ${searchToggle ? 'active' : ''}`} >
-            <button onClick={() => setSearchToggle(!searchToggle)} className="close-search style-1"><i className="bi bi-x-lg"></i></button>
-            <button onClick={() => setSearchToggle(!searchToggle)} className="close-search"><i className="bi bi-arrow-up"></i></button>
-            <form method="post" action="#">
-                <div className="form-group">
-                    <input id="search1" type="search" name="search-field"  placeholder="Search..."  />
-                    <button type="submit"><i className="bi bi-search"></i></button>
-                </div>
-            </form>
-        </div>
-  
+
     </div>
-    
+
   );
 }

@@ -24,7 +24,7 @@ const About2 = () => {
                     <div className="experience-wrapper">
                         <div className="experience-years">
                             <div className="inner">
-                                <span className="count-number odometer" data-count="30">30</span>
+                                <span className="count-number odometer" data-count="10">10</span>
                             </div>
                         </div>
                         <div className="text">
@@ -43,19 +43,19 @@ const About2 = () => {
                     <div className="about-content-wrap">
                         <div className="title-area twoT">
                             <div className="sub-title"><span><i className="asterisk"></i></span>ABOUT INTOLAP</div>
-                            <h2 className="sec-title">Best powerfull business <br/> <span className="bold">consulting agency for</span> <br/> brand success</h2>
+                            <h2 className="sec-title">Best <span className="bold">business</span> <br/> <span className="bold">consulting agency </span> <br/> for your brand success</h2>
                         </div>
                         <ul className="features-list">
-                            <li>Authoritatively reinvent resource</li>
-                            <li>Globally empower standards</li>
-                            <li>Progressively fabricate proactives</li>
+                            <li>Strategically transform resources with innovation.</li>
+                            <li>Globally elevate industry benchmarks.</li>
+                            <li>Proactively engineer forward-thinking solutions.</li>
                         </ul>
-                        <Link to="/about" className="theme-btn bg-dark mt-40">
+                        {/* <Link to="/about" className="theme-btn bg-dark mt-40">
                             <span className="link-effect">
                                 <span className="effect-1">More About</span>
                                 <span className="effect-1">More About</span>
                             </span><i className="bi bi-arrow-right"></i>
-                        </Link>
+                        </Link> */}
                     </div>
                 </div>
 
@@ -67,9 +67,9 @@ const About2 = () => {
                         <div className="achievement-box bg-theme2 br-10">
                             <div className="p-top-left wow slideInLeft" ><img src="/assets/images/about/shape01.png" alt="shape" /></div>
                             <div className="p-bottom-right wow slideInRight" ><img src="/assets/images/about/shape02.png" alt="shape" /></div>
-                            <div className="awards mb-50"><span className="count-number odometer" data-count="100">100</span><span className="plus">+</span></div>
+                            <div className="awards mb-50"><span className="count-number odometer" data-count="100">1.5k</span><span className="plus">+</span></div>
                             <div className="content">
-                                <p>Award wining company</p>
+                                <p>Projects completed</p>
                                 <span className="icon"><i className="icon-mom-star"></i></span>
                             </div>
                         </div>

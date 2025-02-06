@@ -9,8 +9,8 @@ const ContactInfo3 = () => {
                     <div className="contact-content-wrap">
                         <div className="title-area twoT">
                             <div className="sub-title"><span><i className="asterisk"></i></span>CONTACT US</div>
-                            <h2 className="sec-title">Get in touch with INTOLAP <br/> <span className="bold">contact</span> information</h2>
-                            <p className="sec-text text-gray">We’re always ready to helps your business. Let’s talk with us</p>
+                            <h2 className="sec-title">Get in touch{/*  <br/> <span className="bold">contact</span> information */}</h2>
+                            <p className="sec-text text-gray">We’re always ready to help your business.</p>
                         </div>
                         <div className="contact-info">
                             <div className="contact-item">
@@ -18,22 +18,31 @@ const ContactInfo3 = () => {
                                 <i className="bi bi-geo-alt-fill"></i>
                                 </div>
                                 <div className="info">
-                                    <h4 className="title">Our Address</h4>
-                                    <p>3690 New Market Rd #309, Brodil, <br/> San Fransisko - USA</p>
+                                    <h4 className="title">Registered Office</h4>
+                                    <p>Plot 31, Garia Station Road, <br/> Kolkata - 700152</p>
                                 </div>
                             </div>
                             <div className="contact-item">
+                                <div className="icon">
+                                <i className="bi bi-geo-alt-fill"></i>
+                                </div>
+                                <div className="info">
+                                    <h4 className="title">Corporate Office</h4>
+                                    <p>GE 156, Rajdanga Main Road, <br/> Kolkata - 700107</p>
+                                </div>
+                            </div>
+                            {/* <div className="contact-item">
                                 <div className="icon">
                                 <i className="bi bi-telephone-fill"></i>
                                 </div>
                                 <div className="info">
                                     <h4 className="title">Call us Anytime</h4>
                                     <div className="content">
-                                        Consulting: <a href="tel:+8801234567890">+880 123 (4567) 890</a><br/>
+                                        Consulting: <a href="tel:+8801234567890">+91 70636 98517</a><br/>
                                         Corporate: <a href="tel:+995644356000">+99 564 (4356) 000</a>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                             <div className="contact-item">
                                 <div className="icon">
                                 <i className="bi bi-envelope-fill"></i>
@@ -41,43 +50,42 @@ const ContactInfo3 = () => {
                                 <div className="info">
                                     <h4 className="title">Send E-Mail</h4>
                                     <div className="content">
-                                        <a href="mailto:help.example@gmail.com">help.example@gmail.com</a><br/>
-                                        <a href="mailto:support.example@gmail.com">support.example@gmail.com</a>
+                                        <a href="mailto:info@intolap.com">info@intolap.com</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <div className="social-links">
-                            <a href="#">
+                            <a href="https://www.facebook.com/intolap">
                                 <span className="link-effect">
                                     <span className="effect-1">Facebook</span>
                                     <span className="effect-1">Facebook</span>
                                 </span>
                             </a>
-                            <a href="#">
+                            <a href="https://www.x.com/intolap">
                                 <span className="link-effect">
                                     <span className="effect-1">Twitter/X</span>
                                     <span className="effect-1">Twitter/X</span>
                                 </span>
                             </a>
-                            <a href="#">
+                            <a href="https://www.linkedin.com/company/intolap/">
                                 <span className="link-effect">
                                     <span className="effect-1">LinkedIn</span>
                                     <span className="effect-1">LinkedIn</span>
                                 </span>
                             </a>
-                            <a href="#">
+                            {/* <a href="#">
                                 <span className="link-effect">
                                     <span className="effect-1">Instagram</span>
                                     <span className="effect-1">Instagram</span>
                                 </span>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
                 <div className="col-lg-7">
                     <div className="contact-form">
-                        <h2 className="title mt--5 mb-35">Let’s Contact with us</h2>
+                        <h2 className="title mt--5 mb-35">Let’s Connect</h2>
                         <form id="contact_form" className="contact_form" action="https://formspree.io/f/mzbnjrnb" method="post">
                             <div className="form-grid">
                                 <div className="form-group">
@@ -124,7 +132,7 @@ const ContactInfo3 = () => {
         </div>
     </section>
 
-    <div className="contact-map">
+    {/* <div className="contact-map">
         <div className="container-fluid p-0">
             <div className="row">
 
@@ -133,7 +141,7 @@ const ContactInfo3 = () => {
                 </div>
             </div>
         </div>
-    </div>
+    </div> */}
 
 </div>
 

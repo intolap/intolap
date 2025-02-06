@@ -5,7 +5,7 @@ const History1 = () => {
 <section className="mission-section space bg-white">
             <div className="container">
                 <div className="title-area three text-center">
-                    <div className="sub-title"><span><i className="asterisk"></i></span>OUR HISTORY</div>
+                    <div className="sub-title"><span><i className="asterisk"></i></span>MOTO</div>
                     <h2 className="sec-title">Company mission and <span className="bold">vision</span></h2>
                 </div>
                 <div className="row gy-30">
@@ -14,11 +14,11 @@ const History1 = () => {
                             <div className="p-top-right wow slideInRight"><img src="/assets/images/mission/shape01.png" alt="Mission shape" /></div>
                             <div className="mission-content">
                                 <h3 className="title">Our mission to top <br/>success</h3>
-                                <p className="text">Credibly administrate robust resource intellectual capital. Credibly brand the market positioning.</p>
+                                <p className="text">At INTOLAP, we strive to set new industry standards by delivering cutting-edge, scalable, and impactful solutions that enable brands to thrive in a dynamic world.</p>
                                 <Link to="/about" className="theme-btn bg-transparent">
                                     <span className="link-effect">
-                                        <span className="effect-1">Our History</span>
-                                        <span className="effect-1">Our History</span>
+                                        <span className="effect-1">Our Process</span>
+                                        <span className="effect-1">Our Process</span>
                                     </span><i className="bi bi-arrow-right"></i>
                                 </Link>
                             </div>
@@ -31,12 +31,12 @@ const History1 = () => {
                         <div className="mission-single-box bg-light2">
                             <div className="p-top-right wow slideInRight"><img src="/assets/images/mission/shape02.png" alt="Mission shape" /></div>
                             <div className="mission-content">
-                                <h3 className="title">Our vision to <br/>completed goal</h3>
-                                <p className="text">Credibly administrate robust resource intellectual capital. Credibly brand the market positioning.</p>
+                                <h3 className="title">Our Vision for <br/>Achieving Success</h3>
+                                <p className="text">Credibly administrate robust resource intellectually. Credibly brand the market positioning.</p>
                                 <Link to="/about" className="theme-btn bg-transparent">
                                     <span className="link-effect">
-                                        <span className="effect-1">Our History</span>
-                                        <span className="effect-1">Our History</span>
+                                        <span className="effect-1">Our Process</span>
+                                        <span className="effect-1">Our Process</span>
                                     </span><i className="bi bi-arrow-right"></i>
                                 </Link>
                             </div>

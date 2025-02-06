@@ -70,7 +70,7 @@ const Services1 = () => {
                                 <button onClick={next} className="array-next active"><i className="bi bi-arrow-right"></i></button>
                             </div>
                             <div className="service-btn">
-                                <Link to="/service">ALL BRANDS +</Link>
+                                {/* <Link to="/service">ALL BRANDS +</Link> */}
                             </div>
                         </div>
                     </div>
@@ -167,7 +167,7 @@ const Services1 = () => {
                                 <img src="/assets/images/service/social-img01.jpg" alt="Client 01" />
                                 <img src="/assets/images/service/social-img02.jpg" alt="Client 02" />
                             </div>
-                            <p className="text">Partnering with us to transform your vision into reality.</p>
+                            <p className="text">Partner with us to transform your vision into reality.</p>
                         </div>
                         <div className="contact-btn">
                             <Link to="/contact" className="theme-btn">
