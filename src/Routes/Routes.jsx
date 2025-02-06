@@ -22,11 +22,13 @@ import BlogListPage from "../Pages/BlogListPage";
 import BlogDetailsPage from "../Pages/BlogDetailsPage";
 import ProjectDetailPage from "../Pages/ProjectDetailPage";
 import ProjectPage from "../Pages/ProjectPage";
+import PrivacyPage from "../Pages/PrivacyPage";
+import LegalPage from "../Pages/LegalPage";
 
 export const router = createBrowserRouter([
     {
       path: "/",
-      element: <Layout4></Layout4>,
+      element: <Main></Main>,
       children: [
         {
             path: "/about",
@@ -116,5 +118,25 @@ export const router = createBrowserRouter([
           element: <Home3></Home3>,
         },                           
       ],
-    },           
+    },
+    {
+      path: 'privacy',
+      element: <Main></Main>,
+      children: [
+        {
+          index: true,
+          element: <PrivacyPage></PrivacyPage>,
+        },                           
+      ],
+    },
+    {
+      path: 'legal',
+      element: <Main></Main>,
+      children: [
+        {
+          index: true,
+          element: <LegalPage></LegalPage>,
+        },                           
+      ],
+    },          
   ]);

@@ -115,7 +115,7 @@ export default function Header2({ variant }) {
             </button>
             <div className="sidebar-content">
                 <div className="sidebar-logo">
-                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo.png" alt="logo" /></a>
+                    <a className="dark-logo" href="/"><img src="/assets/images/logo/logo.png" alt="logo"  style={{width: '175px'}}/></a>
                 </div>
                 <div className="sidebar-menu-wrap"></div>
                 <div className="sidebar-about">

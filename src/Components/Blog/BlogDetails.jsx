@@ -1,7 +1,7 @@
 
 const BlogDetails = () => {
     return (
-<section className="blog-details-section space bg-white">
+        <section className="blog-details-section space bg-white">
             <div className="container">
                 <div className="row gy-30 flex-column-reverse flex-lg-row">
 
@@ -22,9 +22,9 @@ const BlogDetails = () => {
                                         <span className="date"><i className="icon-calender"></i> August 09, 2024</span>
                                     </div>
                                     <div className="pt-20 pb-25"><div className="border dark"></div></div>
-                                    <p className="text">Conveniently extend vertical benefits and forward processes. Holisticly impact alternative e-commerce 
-                                        through 24/365 paradigms. Enthusiastically enable goal-oriented maximize goal-oriented ideas whereas 
-                                        interoperable platforms. Collaboratively enable integrated outsourcing whereas visionary mindshare. 
+                                    <p className="text">Conveniently extend vertical benefits and forward processes. Holisticly impact alternative e-commerce
+                                        through 24/365 paradigms. Enthusiastically enable goal-oriented maximize goal-oriented ideas whereas
+                                        interoperable platforms. Collaboratively enable integrated outsourcing whereas visionary mindshare.
                                         Compellingly optimize market results via functionalized</p>
                                     <p>Authoritatively build turnkey products for wireless ROI. Seamlessly grow open-source imperative process
                                         leadership skills. Continually reinvent strategic leadership via resource sucking</p>
@@ -70,7 +70,7 @@ const BlogDetails = () => {
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <div className="comment-one">
                                 <h3 className="comment-one__title">1 Comment</h3>
                                 <div className="comment-one__single">
@@ -126,7 +126,7 @@ const BlogDetails = () => {
                         <div className="sidebar-widget blog-sidebar pl-15 lg-pl-0">
                             <div className="widget-box sidebar-search">
                                 <form action="#" className="sidebar__search-form">
-                                    <input type="search" name="search" placeholder="Search..." required  />
+                                    <input type="search" name="search" placeholder="Search..." required />
                                     <button type="submit"><i className="bi bi-search"></i></button>
                                 </form>
                             </div>
@@ -190,9 +190,9 @@ const BlogDetails = () => {
                                 <div className="widget-box mb-0">
                                     <form className="newsletter-form" action="https://formspree.io/f/mzbnjrnb" method="post">
                                         <div className="form-group">
-                                            <input type="email" name="email" className="email mb-0"  placeholder="Enter email" autoComplete="on" required="" />
+                                            <input type="email" name="email" className="email mb-0" placeholder="Enter email" autoComplete="on" required="" />
                                             <button type="submit">
-                                            <i className="bi bi-send"></i>
+                                                <i className="bi bi-send"></i>
                                                 <span className="btn-title"></span>
                                             </button>
                                         </div>

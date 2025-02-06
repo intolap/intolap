@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import Nav from './Nav';
 export default function Header4({ variant }) {
   const [mobileToggle, setMobileToggle] = useState(false);
@@ -65,7 +65,7 @@ export default function Header4({ variant }) {
 
               <div className="cs_main_header_left">
                 <Link className="cs_site_branding" to="/">
-                  <img src="/assets/images/logo/logo-2.png" alt="Logo" />
+                  <img src="/assets/images/logo/logo-2.png" alt="Logo" style={{ width: '175px' }} />
                 </Link>
               </div>
 

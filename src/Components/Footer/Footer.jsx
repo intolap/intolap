@@ -70,13 +70,12 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
-                        <p className="mb-0">&copy;2012-2025 - INTOLAP (CIN: U72900WB2022PTC258219)</p>
+                        <p className="mb-0">&copy;2012-2025 - INTOLAP</p>
                     </div>
                     <div className="col-md-6 text-md-end">
                         <div className="footer-policy">
-                            <a href="#">Terms & Conditions</a>
-                            <a href="#">Privacy Policy</a>
-                            <a href="#">Legal</a>
+                            <a href="/privacy">Privacy Policy</a>
+                            <a href="/legal">Legal</a>
                         </div>
                     </div>
                 </div>

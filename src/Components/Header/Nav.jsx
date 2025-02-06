@@ -1,7 +1,14 @@
+import { useEffect } from 'react';
 import DropDown from './DropDown';
-import { Link } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 
 export default function Nav({ setMobileToggle }) {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
   return (
     <ul className="cs_nav_list fw-medium">
       <li className="menu-item">
