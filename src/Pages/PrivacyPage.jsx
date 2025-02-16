@@ -88,7 +88,7 @@ export default function PrivacyPage() {
                                                 </ul>
                                             </div>
                                         </div>
-                                        <p className="text">To exercise any of these rights, please contact us at [contact@intolap.com].</p>
+                                        <p className="text">To exercise any of these rights, please contact us at [info@intolap.com].</p>
 
                                         <h3 className="title mt-45 mb-10">7. Third-Party Links</h3>
                                         <p className="text">Our Website may contain links to third-party websites. We are not responsible for the privacy practices or content of these external sites. We encourage you to review the privacy policies of those sites before providing any personal information.</p>
