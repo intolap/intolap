@@ -85,9 +85,9 @@ const Services1 = () => {
                                     <div className="inner-box">
                                         <div className="icon"><i className="bi bi-power"></i></div>
                                         <div className="border mt-50 xs-mt-40 mb-30"></div>
-                                        <h4 className="title">INTOLAP TECHNOLOGIES</h4>
+                                        <h4 className="title">INTOLAP</h4>
                                         <p className="text">Delivers cutting-edge IT development services, seamlessly integrating personalized functionalities and driving long-term impact with precision and innovation.</p>
-                                        <Link to="https://intolaptech.com" className="theme-btn service-btn">
+                                        <Link to="https://intolap.com" className="theme-btn service-btn">
                                         <i className="bi bi-plus-lg"></i>
                                             <span className="link-text">View Details</span>
                                         </Link>
