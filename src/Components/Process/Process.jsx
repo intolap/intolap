@@ -4,7 +4,7 @@ import parse from 'html-react-parser';
 
 const Process = () => {
     return (
-        <section className="process-section space bg-white overflow-hidden">
+        <section className="process-section space bg-white overflow-hidden" id="process">
         <div className="container">
             <div className="title-area three text-center">
                 <SectionTitle

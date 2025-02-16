@@ -9,6 +9,13 @@ export default function Nav({ setMobileToggle }) {
     window.scrollTo(0, 0);
   }, [pathname]);
 
+  const scrollToSection = (id) => {
+    const element = document.getElementById(id);
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   return (
     <ul className="cs_nav_list fw-medium">
       <li className="menu-item">
@@ -41,6 +48,12 @@ export default function Nav({ setMobileToggle }) {
       <li className="menu-item">
         <Link to="/contact" onClick={() => setMobileToggle(false)}>
           Contact
+        </Link>
+      </li>
+
+      <li className="menu-item">
+        <Link to="#brands" onClick={() => {scrollToSection("brands"); setMobileToggle(false)}}>
+          Brands
         </Link>
       </li>
 

@@ -48,7 +48,7 @@ const Services1 = () => {
       };  
   
     return (
-        <section className="service-section overflow-hidden">
+        <section className="service-section overflow-hidden" id="brands">
         <div className="p-top-left wow slideInLeft"><img src="/assets/images/service/shape01.png" alt="Service shape" /></div>
         <div className="container space">
             <div className="row align-items-center gy-30">
