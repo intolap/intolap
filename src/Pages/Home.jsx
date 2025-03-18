@@ -39,7 +39,7 @@ const Home = () => {
                 btnname="More About"
                 expyear="10"
                 exptitle="<span class='fw-semibold'>Years of Industry</span> <br> Experience"
-                avatar="/assets/images/about/about02.jpg"
+                avatar="/assets/images/about/about04.jpg"
                 name="Debashis Biswas"
                 designation="CEO Founder"
            ></About1>

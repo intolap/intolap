@@ -52,7 +52,7 @@ export default function Nav({ setMobileToggle }) {
       </li>
 
       <li className="menu-item">
-        <Link to="#brands" onClick={() => {scrollToSection("brands"); setMobileToggle(false)}}>
+        <Link to="/#brands" onClick={() => {scrollToSection("brands"); setMobileToggle(false)}}>
           Brands
         </Link>
       </li>

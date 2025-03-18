@@ -48,12 +48,23 @@ const Choose1 = () => {
                                     <p>Client-centric approach to success</p>
                                 </div>
                             </div>
-                            <Link to="/team" className="theme-btn bg-dark mt-35">
+                            <div className="py-25"><div className="border"></div></div>
+                            <div className="feature-grid">
+                                <div className="feature-item">
+                                    <span className="checkmark"><i className="bi bi-check-lg"></i></span>
+                                    <p>Cutting-edge solutions for competitive advantage</p>
+                                </div>
+                                <div className="feature-item">
+                                    <span className="checkmark"><i className="bi bi-check-lg"></i></span>
+                                    <p>Tailored services to meet unique needs</p>
+                                </div>
+                            </div>
+                            {/* <Link to="/#brands" className="theme-btn bg-dark mt-35">
                                 <span className="link-effect">
                                     <span className="effect-1">Our Brands</span>
                                     <span className="effect-1">Our Brands</span>
                                 </span><i className="bi bi-arrow-up-right"></i>
-                            </Link>
+                            </Link> */}
                         </div>
                     </div>
                 </div>
