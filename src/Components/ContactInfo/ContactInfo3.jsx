@@ -2,137 +2,154 @@
 const ContactInfo3 = () => {
     return (
         <div>
-        <section className="contact-section style-2 space bg-theme3">
-        <div className="container">
-            <div className="row gy-30">
-                <div className="col-lg-5">
-                    <div className="contact-content-wrap">
-                        <div className="title-area twoT">
-                            <div className="sub-title"><span><i className="asterisk"></i></span>CONTACT US</div>
-                            <h2 className="sec-title">Get in touch{/*  <br/> <span className="bold">contact</span> information */}</h2>
-                            <p className="sec-text text-gray">We’re always ready to help your business.</p>
-                        </div>
-                        <div className="contact-info">
-                            <div className="contact-item">
-                                <div className="icon">
-                                <i className="bi bi-geo-alt-fill"></i>
+            <section className="contact-section style-2 space bg-theme3">
+                <div className="container">
+                    <div className="row gy-30">
+                        <div className="col-lg-5">
+                            <div className="contact-content-wrap">
+                                <div className="title-area twoT">
+                                    <div className="sub-title"><span><i className="asterisk"></i></span>CONTACT US</div>
+                                    <h2 className="sec-title">Get in touch{/*  <br/> <span className="bold">contact</span> information */}</h2>
+                                    <p className="sec-text text-gray">We’re always ready to help your business.</p>
                                 </div>
-                                <div className="info">
-                                    <h4 className="title">Registered Office</h4>
-                                    <p>Plot 31, Garia Station Road, <br/> Kolkata - 700152</p>
-                                </div>
-                            </div>
-                            <div className="contact-item">
-                                <div className="icon">
-                                <i className="bi bi-geo-alt-fill"></i>
-                                </div>
-                                <div className="info">
-                                    <h4 className="title">Corporate Office</h4>
-                                    <p>GE 156, Rajdanga Main Road, <br/> Kolkata - 700107</p>
-                                </div>
-                            </div>
-                            {/* <div className="contact-item">
-                                <div className="icon">
-                                <i className="bi bi-telephone-fill"></i>
-                                </div>
-                                <div className="info">
-                                    <h4 className="title">Call us Anytime</h4>
-                                    <div className="content">
-                                        Consulting: <a href="tel:+8801234567890">+91 70636 98517</a><br/>
-                                        Corporate: <a href="tel:+995644356000">+99 564 (4356) 000</a>
+                                <div className="contact-info">
+                                    <div className="contact-item">
+                                        <div className="icon">
+                                            <i className="bi bi-geo-alt-fill"></i>
+                                        </div>
+                                        <div className="info">
+                                            <h4 className="title">Registered Office</h4>
+                                            <p>Plot 31, Garia Station Road, <br /> Kolkata - 700152</p>
+                                        </div>
+                                    </div>
+                                    {/* <div className="contact-item">
+                                        <div className="icon">
+                                            <i className="bi bi-geo-alt-fill"></i>
+                                        </div>
+                                        <div className="info">
+                                            <h4 className="title">Corporate Office</h4>
+                                            <p>GE 156, Rajdanga Main Road, <br /> Kolkata - 700107</p>
+                                        </div>
+                                    </div> */}
+                                    {/* <div className="contact-item">
+                                        <div className="icon">
+                                            <i className="bi bi-telephone-fill"></i>
+                                        </div>
+                                        <div className="info">
+                                            <h4 className="title">Call us for</h4>
+                                            <div className="content">
+                                                Consulting: <a href="tel:+8801234567890">+91 70636 98517</a><br />
+                                                Corporate: <a href="tel:+995644356000">+99 564 (4356) 000</a>
+                                            </div>
+                                        </div>
+                                    </div> */}
+
+                                    <div className="contact-item">
+                                        <div className="icon">
+                                            <i className="bi bi-telephone-fill"></i>
+                                        </div>
+                                        <div className="info">
+                                            <h4 className="title">Schedule Appointment</h4>
+                                            <div className="content">
+                                                <a href="https://calendar.app.google/GyxTchsL4b6n1SfX8">FREE TECHNICAL CONSULTATION</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div className="contact-item">
+                                        <div className="icon">
+                                            <i className="bi bi-envelope-fill"></i>
+                                        </div>
+                                        <div className="info">
+                                            <h4 className="title">Send E-Mail</h4>
+                                            <div className="content">
+                                                General: <a href="mailto:info@intolap.com">info@intolap.com</a><br />
+                                                HR Dept: <a href="mailto:hr@intolap.com">hr@intolap.com</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                            </div> */}
-                            <div className="contact-item">
-                                <div className="icon">
-                                <i className="bi bi-envelope-fill"></i>
-                                </div>
-                                <div className="info">
-                                    <h4 className="title">Send E-Mail</h4>
-                                    <div className="content">
-                                        <a href="mailto:info@intolap.com">info@intolap.com</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="social-links">
-                            <a href="https://www.facebook.com/intolap">
-                                <span className="link-effect">
-                                    <span className="effect-1">Facebook</span>
-                                    <span className="effect-1">Facebook</span>
-                                </span>
-                            </a>
-                            <a href="https://www.x.com/intolap">
-                                <span className="link-effect">
-                                    <span className="effect-1">Twitter/X</span>
-                                    <span className="effect-1">Twitter/X</span>
-                                </span>
-                            </a>
-                            <a href="https://www.linkedin.com/company/intolap/">
-                                <span className="link-effect">
-                                    <span className="effect-1">LinkedIn</span>
-                                    <span className="effect-1">LinkedIn</span>
-                                </span>
-                            </a>
-                            {/* <a href="#">
+                                <div className="social-links">
+                                    <a href="https://www.facebook.com/intolap">
+                                        <span className="link-effect">
+                                            <span className="effect-1">Facebook</span>
+                                            <span className="effect-1">Facebook</span>
+                                        </span>
+                                    </a>
+                                    <a href="https://www.x.com/intolap">
+                                        <span className="link-effect">
+                                            <span className="effect-1">Twitter/X</span>
+                                            <span className="effect-1">Twitter/X</span>
+                                        </span>
+                                    </a>
+                                    <a href="https://www.linkedin.com/company/intolap/">
+                                        <span className="link-effect">
+                                            <span className="effect-1">LinkedIn</span>
+                                            <span className="effect-1">LinkedIn</span>
+                                        </span>
+                                    </a>
+                                    {/* <a href="#">
                                 <span className="link-effect">
                                     <span className="effect-1">Instagram</span>
                                     <span className="effect-1">Instagram</span>
                                 </span>
                             </a> */}
+                                </div>
+                            </div>
+                        </div>
+                        <div className="col-lg-7">
+                            <div className="contact-form">
+                                <h2 className="title mt--5 mb-35">Let’s Connect</h2>
+                                <form id="contact_form" className="contact_form" action="https://formspree.io/f/mblyloeo" method="post">
+                                    <input type="text" name="_gotcha" style={{"display":"none"}} />
+
+                                    <div className="form-grid">
+                                        <div className="form-group">
+                                            <span className="icon"><i className="bi bi-person-fill"></i></span>
+                                            <input type="text" id="fullName" name="name" placeholder="Your Name" required autoComplete="on" />
+                                        </div>
+                                        <div className="form-group">
+                                            <span className="icon"><i className="bi bi-envelope-fill"></i></span>
+                                            <input type="email" id="userEmail" name="email" placeholder="Email Address" required autoComplete="on" />
+                                        </div>
+                                    </div>
+                                    <div className="form-grid">
+                                        <div className="form-group">
+                                            <span className="icon"><i className="bi bi-telephone-fill"></i></span>
+                                            <input type="text" id="phone" name="phone" placeholder="Phone No." required autoComplete="off" />
+                                        </div>
+                                        <div className="form-group">
+                                            <select className="custom-select" id="consultation-service" name="consultationService" autoComplete="off">
+                                                <option value="">What do you need help with?</option>
+                                                <option value="businessStrategy">Business Strategy Consultation</option>
+                                                <option value="marketing">Marketing & Growth Planning</option>
+                                                <option value="branding">Branding & Positioning</option>
+                                                <option value="webDevelopment">Website or App Development</option>
+                                                <option value="techAudit">Technology Stack Audit</option>
+                                                <option value="other">Something Else</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div className="form-group">
+                                        <textarea id="msg" name="msg" placeholder="Write Message" required></textarea>
+                                    </div>
+                                    <div className="form-group terms">
+                                        <input type="checkbox" id="terms" required />
+                                        <label htmlFor="terms">I agree to all terms and conditions.</label>
+                                    </div>
+                                    <button type="submit" className="theme-btn bg-dark mt-35" data-loading-text="Please wait...">
+                                        <span className="link-effect">
+                                            <span className="btn-title">Submit Now</span>
+                                        </span><i className="bi bi-arrow-right"></i>
+                                    </button>
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div className="col-lg-7">
-                    <div className="contact-form">
-                        <h2 className="title mt--5 mb-35">Let’s Connect</h2>
-                        <form id="contact_form" className="contact_form" action="https://formspree.io/f/mzbnjrnb" method="post">
-                            <div className="form-grid">
-                                <div className="form-group">
-                                    <span className="icon"><i className="bi bi-person-fill"></i></span>
-                                    <input type="text" id="fullName" name="name" placeholder="Your Name" required autoComplete="on" />
-                                </div>
-                                <div className="form-group">
-                                    <span className="icon"><i className="bi bi-envelope-fill"></i></span>
-                                    <input type="email" id="userEmail" name="email" placeholder="Email Address" required autoComplete="on" />
-                                </div>
-                            </div>
-                            <div className="form-grid">
-                                <div className="form-group">
-                                    <span className="icon"><i className="bi bi-telephone-fill"></i></span>
-                                    <input type="text" id="phone" name="phone" placeholder="Phone No." required autoComplete="off" />
-                                </div>
-                                <div className="form-group">
-                                    <select className="custom-select" id="service" name="service" autoComplete="off">
-                                        <option>What are you need?</option>
-                                        <option value="air">Air Freight</option>
-                                        <option value="ocean">Ocean Freight</option>
-                                        <option value="rail">Rail transport</option>
-                                        <option value="cargo">Cargo ship</option>
-                                        <option value="bulk">Bulk cargo</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div className="form-group">
-                                <textarea id="msg" name="msg" placeholder="Write Message" required></textarea>
-                            </div>
-                            <div className="form-group terms">
-                                <input type="checkbox" id="terms" required />
-                                <label htmlFor="terms">I agree to all terms and conditions.</label>
-                            </div>
-                            <button type="submit" className="theme-btn bg-dark mt-35"  data-loading-text="Please wait...">
-                                <span className="link-effect">
-                                    <span className="btn-title">Submit Now</span>
-                                </span><i className="bi bi-arrow-right"></i>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+            </section>
 
-    {/* <div className="contact-map">
+            {/* <div className="contact-map">
         <div className="container-fluid p-0">
             <div className="row">
 
@@ -143,7 +160,7 @@ const ContactInfo3 = () => {
         </div>
     </div> */}
 
-</div>
+        </div>
 
 
     );

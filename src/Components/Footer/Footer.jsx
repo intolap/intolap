@@ -70,7 +70,7 @@ const Footer = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
-                        <p className="mb-0">&copy;2012-2025 - INTOLAP</p>
+                        <p className="mb-0">&copy;2015-2025 - INTOLAP</p>
                     </div>
                     <div className="col-md-6 text-md-end">
                         <div className="footer-policy">
