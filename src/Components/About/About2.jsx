@@ -24,7 +24,7 @@ const About2 = () => {
                     <div className="experience-wrapper">
                         <div className="experience-years">
                             <div className="inner">
-                                <span className="count-number odometer" data-count="10">10</span>
+                                <span className="count-number odometer" data-count="14">14</span>
                             </div>
                         </div>
                         <div className="text">

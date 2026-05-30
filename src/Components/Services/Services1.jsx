@@ -56,11 +56,11 @@ const Services1 = () => {
                         <div className="service-content-wrap">
                             <div className="title-area two white">
                                 <div className="sub-title">
-                                    <span><i className="asterisk"></i></span>Our Industry Presence
+                                    <span><i className="asterisk"></i></span>Our Ventures
                                 </div>
                                 <div className="title-wrap">
                                     {/* <h2 className="sec-title">Providing the best <br/> <span className="bold"><span className="text-theme2">digital</span> agency</span> <br/> solutions</h2> */}
-                                    <h2 className="sec-title">Empowering Businesses <br /> <span className="bold"><span className="text-theme2">Transforming Industries</span> </span> </h2>
+                                    <h2 className="sec-title">Innovative Businesses <br /> <span className="bold"><span className="text-theme2">Under One Vision</span> </span> </h2>
                                     <p className="sec-text">Driving innovation and sustainable growth across diverse sectors with strategic expertise and cutting-edge solutions.</p>
                                 </div>
                             </div>
@@ -86,7 +86,7 @@ const Services1 = () => {
                                                 <div className="icon"><i className="bi bi-power"></i></div>
                                                 <div className="border mt-50 xs-mt-40 mb-30"></div>
                                                 <h4 className="title">INTOLAP</h4>
-                                                <p className="text">Delivers cutting-edge IT development services, seamlessly integrating personalized functionalities and driving long-term impact with precision and innovation.</p>
+                                                <p className="text">Delivers cutting-edge IT development services, seamlessly integrating personalized functionalities and driving long-term impact with innovation.</p>
                                                 <Link to="https://intolap.com" className="theme-btn service-btn">
                                                     <i className="bi bi-plus-lg"></i>
                                                     <span className="link-text">View Details</span>
@@ -104,12 +104,12 @@ const Services1 = () => {
                                                 <div className="icon"><i className="bi bi-puzzle"></i></div>
                                                 <div className="border mt-50 xs-mt-40 mb-30"></div>
                                                 <h4 className="title">CMSPRESS</h4>
-                                                <p className="text">A comprehensive headless CMS, offering seamless integration, scalability, and flexibility. It empowers businesses with dynamic content management, enabling easy customization.</p>
+                                                <p className="text">A comprehensive headless CMS, offering seamless integration, scalability, and flexibility. It empowers businesses with dynamic content management.</p>
                                                 <Link to="https://cmspress.intolap.com" className="theme-btn service-btn">
                                                     <i className="bi bi-plus-lg"></i>
                                                     <span className="link-text">View Details</span>
                                                 </Link>
-                                                <span className="serial">Content Management System</span>
+                                                <span className="serial">CMS</span>
                                                 <div className="p-top-right wow slideInRight" data-wow-delay="700ms">
                                                     <img src="/assets/images/service/box-shape02.png" alt="Service shape" />
                                                 </div>
@@ -122,7 +122,7 @@ const Services1 = () => {
                                                 <div className="icon"><i className="bi bi-power"></i></div>
                                                 <div className="border mt-50 xs-mt-40 mb-30"></div>
                                                 <h4 className="title">LaunchMeLoud</h4>
-                                                <p className="text">LaunchMeLoud is a dynamic startup platform offering innovative tools, expert support, and strategic guidance to help businesses grow, thrive, and succeed in today’s competitive market.</p>
+                                                <p className="text">Dynamic startup platform offering innovative tools, expert support, and strategic guidance to help businesses grow, and succeed in competitive market.</p>
                                                 <Link to="https://launchmeloud.com" className="theme-btn service-btn">
                                                     <i className="bi bi-plus-lg"></i>
                                                     <span className="link-text">View Details</span>
@@ -139,13 +139,13 @@ const Services1 = () => {
                                             <div className="inner-box">
                                                 <div className="icon"><i className="bi bi-puzzle"></i></div>
                                                 <div className="border mt-50 xs-mt-40 mb-30"></div>
-                                                <h4 className="title">Deviya - Fashion Forward</h4>
-                                                <p className="text">Offering stylish, high-quality accessories designed to empower women. With a focus on elegance and sustainability, we create pieces that complement modern lifestyles while supporting a meaningful cause.</p>
-                                                {/* <Link to="/service/service-details" className="theme-btn service-btn">
+                                                <h4 className="title">Deviya Lifestyles</h4>
+                                                <p className="text">Blending craftsmanship, creativity, and elegance, Deviya offers handcrafted chocolates and lifestyle gifts that bring joy, connection, and lasting impressions.</p>
+                                                <Link to="https://deviya.in" className="theme-btn service-btn">
                                                     <i className="bi bi-plus-lg"></i>
                                                     <span className="link-text">View Details</span>
-                                                </Link> */}
-                                                <span className="serial">Fashion & Accessories</span>
+                                                </Link>
+                                                <span className="serial">Luxury Gifts & Lifestyle</span>
                                                 <div className="p-top-right wow slideInRight" data-wow-delay="700ms">
                                                     <img src="/assets/images/service/box-shape02.png" alt="Service shape" />
                                                 </div>

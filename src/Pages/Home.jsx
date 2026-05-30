@@ -30,16 +30,16 @@ const Home = () => {
            <About1
                 subtitle="ABOUT INTOLAP"
                 title="Best <span class='bold'>business consulting <br>  agency </span> for your <br> brand success"
-                rotatetext="  * IT CONSULTANCY * INTERIOR DESIGN  *  FASHION"
-                subtitle2="SINCE 2015"
+                rotatetext="  * IT CONSULTANCY * INTERIOR DESIGN * LIFESTYLES"
+                subtitle2="SINCE 2012"
                 // content="Collaboratively <span class='text-theme'>disintermediate</span> one to functionalities and long term impacter compellingly granulars web leveling competencie consult"
 
-                content="We have been driving <span class='text-theme'>innovation and excellence</span> in consulting. Through a collaborative approach, we streamline complex functionalities, ensuring long-term impact and sustainable growth. Our expertise enables businesses to harness granular web technologies, elevating their competencies and positioning them for success in the digital landscape."
+                content="Our mission is to empower businesses and individuals to thrive in the digital age by delivering cutting-edge solutions that transform industries and enhance lives. With a commitment to excellence, we strive to be a catalyst for positive change, fostering growth and success for our clients and partners worldwide."
 
                 btnname="More About"
-                expyear="10"
+                expyear="14"
                 exptitle="<span class='fw-semibold'>Years of Industry</span> <br> Experience"
-                avatar="/assets/images/about/about04.jpg"
+                avatar="/assets/images/about/about05.jpg"
                 name="Debashis Biswas"
                 designation="CEO Founder"
            ></About1>

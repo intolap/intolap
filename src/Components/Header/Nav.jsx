@@ -53,7 +53,7 @@ export default function Nav({ setMobileToggle }) {
 
       <li className="menu-item">
         <Link to="/#brands" onClick={() => {scrollToSection("brands"); setMobileToggle(false)}}>
-          Industries
+          Ventures
         </Link>
       </li>
 
