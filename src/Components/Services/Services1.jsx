@@ -98,7 +98,7 @@ const Services1 = () => {
                                             </div>
                                         </div>
                                     </div>
-                                    <div className="swiper-slide">
+                                    {/* <div className="swiper-slide">
                                         <div className="service-single-box white bg-theme">
                                             <div className="inner-box">
                                                 <div className="icon"><i className="bi bi-puzzle"></i></div>
@@ -115,7 +115,7 @@ const Services1 = () => {
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+                                    </div> */}
                                     <div className="swiper-slide">
                                         <div className="service-single-box bg-theme2">
                                             <div className="inner-box">
