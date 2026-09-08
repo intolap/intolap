@@ -1,0 +1,43 @@
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Intolap engineering process: Understand, Architect, Build, Integrate, Deploy, Improve">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111A2E"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" rx="14" fill="url(#pbg)"/>
+  <line x1="90" y1="130" x2="810" y2="130" stroke="#2A3A5A" stroke-width="2"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <!-- 6 steps -->
+    <g transform="translate(90,130)">
+      <circle r="26" fill="#111A2E" stroke="#4FD1C5" stroke-width="2.5"/>
+      <text text-anchor="middle" y="7" font-size="18" font-weight="700" fill="#4FD1C5">01</text>
+      <text text-anchor="middle" y="58" font-size="15" fill="#F5F7FA" font-weight="600">Understand</text>
+    </g>
+    <g transform="translate(234,130)">
+      <circle r="26" fill="#111A2E" stroke="#57C9D6" stroke-width="2.5"/>
+      <text text-anchor="middle" y="7" font-size="18" font-weight="700" fill="#57C9D6">02</text>
+      <text text-anchor="middle" y="58" font-size="15" fill="#F5F7FA" font-weight="600">Architect</text>
+    </g>
+    <g transform="translate(378,130)">
+      <circle r="26" fill="#111A2E" stroke="#5FC0DC" stroke-width="2.5"/>
+      <text text-anchor="middle" y="7" font-size="18" font-weight="700" fill="#5FC0DC">03</text>
+      <text text-anchor="middle" y="58" font-size="15" fill="#F5F7FA" font-weight="600">Build</text>
+    </g>
+    <g transform="translate(522,130)">
+      <circle r="26" fill="#111A2E" stroke="#67B7E2" stroke-width="2.5"/>
+      <text text-anchor="middle" y="7" font-size="18" font-weight="700" fill="#67B7E2">04</text>
+      <text text-anchor="middle" y="58" font-size="15" fill="#F5F7FA" font-weight="600">Integrate</text>
+    </g>
+    <g transform="translate(666,130)">
+      <circle r="26" fill="#111A2E" stroke="#6FAEE8" stroke-width="2.5"/>
+      <text text-anchor="middle" y="7" font-size="18" font-weight="700" fill="#6FAEE8">05</text>
+      <text text-anchor="middle" y="58" font-size="15" fill="#F5F7FA" font-weight="600">Deploy</text>
+    </g>
+    <g transform="translate(810,130)">
+      <circle r="26" fill="#111A2E" stroke="#63B3FF" stroke-width="2.5"/>
+      <text text-anchor="middle" y="7" font-size="18" font-weight="700" fill="#63B3FF">06</text>
+      <text text-anchor="middle" y="58" font-size="15" fill="#F5F7FA" font-weight="600">Improve</text>
+    </g>
+  </g>
+</svg>
